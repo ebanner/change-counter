@@ -1,4 +1,4 @@
-# change-counter
+# 🪙 change-counter
 
 This is a little proof of concept using the Hough Transform to count change.
 
